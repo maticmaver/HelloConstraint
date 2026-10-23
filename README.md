@@ -23,5 +23,5 @@ Enostavna Android aplikacija, ustvarjena v sklopu šolskih vaj za spoznavanje gr
 
 ---
 
-<img width="360" height="800" alt="Hello_constraint_app-screenshot1" src="https://github.com/user-attachments/assets/28274c28-30be-4e6c-af72-172d86646727" /><img width="800" height="360" alt="Hello_constraint_app-screenshot2" src="https://github.com/user-attachments/assets/3a7ba3b1-83b7-497e-9a8e-5106aa279f52" />
+<img border="solid white 1px" width="360" height="800" alt="Hello_constraint_app-screenshot1" src="https://github.com/user-attachments/assets/28274c28-30be-4e6c-af72-172d86646727" /><img border="solid white 1px" width="800" height="360" alt="Hello_constraint_app-screenshot2" src="https://github.com/user-attachments/assets/3a7ba3b1-83b7-497e-9a8e-5106aa279f52" />
 
