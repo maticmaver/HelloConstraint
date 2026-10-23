@@ -25,9 +25,7 @@ Enostavna Android aplikacija, ustvarjena v sklopu šolskih vaj za spoznavanje gr
 
 | ![Hello constraint app screenshot 1](https://github.com/user-attachments/assets/28274c28-30be-4e6c-af72-172d86646727) |
 | :---: |
-| Prvi zaslon aplikacije |
 
 | ![Hello constraint app screenshot 2](https://github.com/user-attachments/assets/3a7ba3b1-83b7-497e-9a8e-5106aa279f52) |
 | :---: |
-| Drugi zaslon aplikacije |
 
